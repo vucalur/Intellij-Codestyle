@@ -47,6 +47,7 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="false" />
     </indentOptions>
+    <option name="METHOD_ANNOTATION_WRAP" value="1" />
     <arrangement>
       <groups>
         <group>
